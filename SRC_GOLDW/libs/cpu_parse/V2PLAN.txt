@@ -1,0 +1,6 @@
+Must update where memmapE and DB work to ignore the first db using the empty "4" slot of the DB map
+and have the trigger be that the final character is both in the trigger map and in memmapE.
+
+Also set it so that same tags between the memmaps are won by wrTOP
+
+motives: much more versatile key system, creates ability for non symmetrical exclusion with SE triggers galore
